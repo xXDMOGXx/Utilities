@@ -1,0 +1,27 @@
+n: Dylan
+mon: midnight-9:45am, 11:00am-2:15pm, 4:00pm-midnight
+tue: midnight-11:15am, 1:00pm-3:45pm, 5:00pm-midnight
+wed: midnight-9:45am, 11:00am-2:15pm, 4:00pm-midnight
+thu: midnight-11:15am, 2:15pm-3:45pm, 5:00pm-midnight
+fri: midnight-9:45am, 11:00am-midnight
+
+n: Ty
+mon: 5:15pm-midnight
+tue: midnight-1:30pm
+wed: 5:15pm-midnight
+thu: midnight-1:30pm
+fri: 5:15pm-midnight
+
+n: Kim
+mon: 1:00pm-2:30pm
+tue: 9:00am-3:30pm
+wed: 1:00pm-2:30pm
+thu: 9:00am-12:30pm
+fri: 9:00am-3:30pm
+
+n: Eric
+mon: noon-midnight
+tue: N/A
+wed: 3:00pm-midnight
+thu: 1:00am-3:30pm
+fri: 8:50am-midnight
